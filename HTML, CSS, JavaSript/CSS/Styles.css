@@ -1,0 +1,9 @@
+body {
+    background-color: lightskyblue;
+    color: rebeccapurple;
+    font-size: 12pt;
+}
+
+th, td {
+    padding: 15px;
+}
